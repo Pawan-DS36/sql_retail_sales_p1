@@ -19,11 +19,11 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
+- **Database Creation**: The project starts by creating a database named `sql_project_retail_sales`.
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
-CREATE DATABASE p1_retail_db;
+CREATE DATABASE sql_project_retail_sales;
 
 CREATE TABLE retail_sales
 (
@@ -202,7 +202,7 @@ GROUP BY shift
 
 ## Conclusion
 
-This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+This project provided a solid foundation in SQL tailored for aspiring data analysts. Through hands-on exploration of database setup, data cleaning techniques, and analytical queries, I gained practical experience in transforming raw data into meaningful insights. By applying SQL to real-world scenarios, I was able to uncover trends in sales, customer preferences, and product performance — insights that can directly support smarter business decisions and strategic planning.
 
-ions.
+
 
